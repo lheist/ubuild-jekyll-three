@@ -22,7 +22,7 @@ page_sections:
     button_text: Import
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2021/03/17/firewatch_1.jpg"
+  image: "/media/firewatch_1.jpeg"
   slug: ''
   caption: ''
 - template: hero-banner-w-image
