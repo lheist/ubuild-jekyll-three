@@ -22,9 +22,9 @@ sections:
   path: _config.yml
   label: Config
 upload_dir: uj3
-public_path: "/media"
+public_path: https://artistpg.s3.eu-west-3.amazonaws.com/uj3
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
