@@ -87,7 +87,7 @@ page_sections:
   content: Made with ❤︎ in Canada
 - template: full-width-media-element
   block: media-1
-  image: "/media/firewatch_1.jpeg"
+  image: https://artistpg.s3.eu-west-3.amazonaws.com/uj3/test.jpg
   slug: test
   caption: ''
 
