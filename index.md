@@ -90,5 +90,9 @@ page_sections:
   image: https://res.cloudinary.com/artist-project-group/v1616345925/uj3/test_cmxbhl.jpg
   slug: test
   caption: ''
+- template: signup-bar
+  block: cta-bar
+  email_recipient: mail@artistprojectgroup.com
+  content: ''
 
 ---
