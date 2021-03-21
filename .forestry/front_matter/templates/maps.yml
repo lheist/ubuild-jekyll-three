@@ -1,0 +1,13 @@
+---
+label: Maps
+hide_body: false
+fields:
+- name: code_
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: 'Code '
