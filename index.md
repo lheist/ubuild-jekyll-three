@@ -22,7 +22,7 @@ page_sections:
     button_text: Import
 - template: full-width-media-element
   block: media-1
-  image: https://artistpg.s3.eu-west-3.amazonaws.com/uj3/firewatch_1.jpeg
+  image: https://res.cloudinary.com/artist-project-group/v1616345794/uj3/firewatch_3_avcpvp.jpg
   slug: ''
   caption: ''
 - template: hero-banner-w-image
