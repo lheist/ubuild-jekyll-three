@@ -87,7 +87,7 @@ page_sections:
   content: Made with ❤︎ in Canada
 - template: full-width-media-element
   block: media-1
-  image: https://artistpg.s3.eu-west-3.amazonaws.com/uj3/test.jpg
+  image: https://artistpg.s3.eu-west-3.amazonaws.com/uj3/image3.png
   slug: test
   caption: ''
 
