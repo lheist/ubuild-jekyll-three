@@ -22,7 +22,7 @@ sections:
   path: _config.yml
   label: Config
 upload_dir: uj3
-public_path: https://artistpg.s3.eu-west-3.amazonaws.com/uj3
+public_path: https://res.cloudinary.com/artist-project-group
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
