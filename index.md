@@ -87,7 +87,7 @@ page_sections:
   content: Made with ❤︎ in Canada
 - template: full-width-media-element
   block: media-1
-  image: https://artistpg.s3.eu-west-3.amazonaws.com/uj3/image3.png
+  image: https://res.cloudinary.com/artist-project-group/v1616345925/uj3/test_cmxbhl.jpg
   slug: test
   caption: ''
 
