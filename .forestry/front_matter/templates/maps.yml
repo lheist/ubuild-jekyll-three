@@ -2,7 +2,12 @@
 label: Maps
 hide_body: false
 fields:
-- name: AAAA
-  type: tag_list
-  default: []
-  label: Tag
+- name: code_
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: 'Code '
