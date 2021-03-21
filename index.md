@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: https://res.cloudinary.com/artist-project-group/v1616347223/uj3/forestry-full_aepz1y.svg
   navigation:
   - link: "/"
     link_text: Ubuild
@@ -36,7 +36,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: https://res.cloudinary.com/artist-project-group/v1616347223/uj3/edit_dxry25.gif
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
@@ -48,7 +48,7 @@ page_sections:
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: https://res.cloudinary.com/artist-project-group/v1616347223/uj3/blocks-split_tfnnoz.png
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
@@ -59,7 +59,7 @@ page_sections:
   content: Each block comes with custom Front Matter that can be edited in Forestry
     CMS.
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: https://res.cloudinary.com/artist-project-group/v1616347223/uj3/product-shot-1_xnhtta.png
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
@@ -71,7 +71,7 @@ page_sections:
     create new sites and make them fully customizable.
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2018/06/21/theme.png"
+  image: https://res.cloudinary.com/artist-project-group/v1616347223/uj3/theme_ginob4.png
   caption: All Available Blocks
   slug: blocks
 - template: detail-content
