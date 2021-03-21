@@ -1,4 +1,8 @@
 ---
 label: Maps
 hide_body: false
-fields: []
+fields:
+- name: AAAA
+  type: tag_list
+  default: []
+  label: Tag
